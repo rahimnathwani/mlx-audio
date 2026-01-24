@@ -174,7 +174,9 @@ audio = results[0].audio  # mx.array
 | `mlx-community/Qwen3-TTS-12Hz-1.7B-CustomVoice-bf16` | `generate_custom_voice()` | Better emotion control |
 | `mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-bf16` | `generate_voice_design()` | Create any voice |
 
-**Speakers (Base/CustomVoice):** `Chelsie`, `Ethan`, `Serena`, `Vivian`, `Ryan`, `Aiden`, `Eric`, `Dylan`
+**Speakers (Base/CustomVoice):**
+- **Chinese Speakers:** `Vivian`, `Serena`, `Uncle_Fu`, `Dylan` (Beijing Dialect), `Eric` (Sichuan Dialect)
+- **English Speakers:** `Ryan`, `Aiden`
 
 ### CSM (Voice Cloning)
 
